@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate IT student and software developer
 
 - 🎓 Currently studying Information Technology at the University of Kigali
 - 💼 Worked as a Frontend Developer at Africa in Colors & Hobe Agency
-- 💻 Experienced in HTML, CSS, JavaScript, PHP, Python, SQL, and currently exploring React.js and Node.js
 - 🎨 Skilled in UI/UX design using Figma
 - 🏅 Google IT Support Professional Certificate holder
 - 🌐 Fluent in English
