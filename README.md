@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm a passionate IT student and software developer from Kigali, Rwanda. I love creating innovative solutions and continuously learning new technologies.
 
+
+## About Me
+
+- 🎓 Currently studying Information Technology at the University of Kigali
+- 💼 Worked as a Frontend Developer at Africa in Colors & Hobe Agency
+- 💻 Experienced in HTML, CSS, JavaScript, PHP, Python, SQL, and currently exploring React.js and Node.js
+- 🎨 Skilled in UI/UX design using Figma
+- 🏅 Google IT Support Professional Certificate holder
+- 🌐 Fluent in English
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;" />
@@ -14,15 +23,6 @@ Welcome to my GitHub profile! I'm a passionate IT student and software developer
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;" />
 </div>
-
-## About Me
-
-- 🎓 Currently studying Information Technology at the University of Kigali
-- 💼 Worked as a Frontend Developer at Africa in Colors & Hobe Agency
-- 💻 Experienced in HTML, CSS, JavaScript, PHP, Python, SQL, and currently exploring React.js and Node.js
-- 🎨 Skilled in UI/UX design using Figma
-- 🏅 Google IT Support Professional Certificate holder
-- 🌐 Fluent in English
 
 ## Experience
 
