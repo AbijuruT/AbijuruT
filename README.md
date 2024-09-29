@@ -1,4 +1,4 @@
-## Hello, World! 🌍
+## Hello, World!
 
 As an IT enthusiast, I specialize in web development, IT support, and UI/UX design. I’m focused on creating efficient and user-friendly solutions using tools like JavaScript, Python, and the MERN stack. Whether it's crafting intuitive user interfaces or solving tech challenges, I’m passionate about writing clean, effective code and constantly learning new technologies.
 
